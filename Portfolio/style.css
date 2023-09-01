@@ -6,6 +6,17 @@
     padding-bottom: 5px;
     width:100%;
 }
-#navname{
+#navbar{
     font-family: 'EB Garamond', serif;
+}
+#footer{
+    font-family: 'EB Garamond', serif;
+}
+#aboutme{
+    padding-top: 10px;
+    margin-top: 100px;
+    font-family: 'EB Garamond', serif;
+}
+#headshot{
+    width: 20em;
 }
