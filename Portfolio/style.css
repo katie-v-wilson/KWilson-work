@@ -88,6 +88,10 @@ ul{
     font-family: 'EB Garamond', serif;
     font-size:17px;
 }
+ /* Clip  Section Style */
+ .container{ 
+    padding-top: 60px;
+ }
  /* Link Style */
  a:link {
     color:black;
