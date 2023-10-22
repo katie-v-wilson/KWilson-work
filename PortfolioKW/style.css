@@ -18,12 +18,17 @@
 }
 /* About Me Section Style */
 #aboutme{
+    margin-top:50px;
     padding-top: 10px;
-    padding-bottom: 10px;
-    margin-top: 50px;
-    margin-bottom: 50px;
+    padding-bottom:10px;
+    Padding-right:0px;
+    Padding-left:0px;
     font-family: 'EB Garamond', serif;
 }
 #headshot{
     width: 20em;
+    margin-bottom: 50px;
+}
+.pagetop{
+    width:100%;
 }
