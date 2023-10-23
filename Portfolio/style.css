@@ -92,7 +92,9 @@ ul{
  .container{ 
     padding-top: 60px;
  }
-
+.col-md-3{
+    margin:100px;
+}
 
  /* Link Style */
  a:link {

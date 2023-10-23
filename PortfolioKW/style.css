@@ -100,13 +100,23 @@ ul{
 .publication{
     font-family: 'EB Garamond', serif;
     color:#6da65b;
+    text-align:center;
 }
 .title{
     font-family: 'EB Garamond', serif;
+    text-align: center;
 }
 .card-img-top{
     height: 200px;
 }
+.card-title{
+    font-family: 'EB Garamond', serif;
+}
+.card{
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
  /* Link Style */
  a:link {
     color:black;
